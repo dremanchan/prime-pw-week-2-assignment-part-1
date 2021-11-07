@@ -64,7 +64,6 @@ if ((pets < allowedPets)) {
 
 var mostPets = 0
 
-
 if (pets > friendsPets) {
   mostPets = pets
   console.log("here are the most pets", mostPets)
